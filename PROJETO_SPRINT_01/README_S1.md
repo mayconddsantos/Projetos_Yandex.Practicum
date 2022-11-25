@@ -1,6 +1,5 @@
 <h4>Bootcamp em Análse de dados | Practicum by Yandex</h4>
-<hr>
-<br/>
+
 <h1><b>Sprint 1 - Python Básico</b></h1>
 <p>
 No primeiro <i>sprint</i> do <i>boocamp</i>, foram abordados os conceitos fundamentais e sintaxe básica de Pyhton e conhecemos também a biblioteca pandas para análises de dados. Ao final do conteúdo realizamos o primeiro estudo de caso e em seguida desenvolvemos o primeiro projeto. Segue abaixo os tópicos abordados nesse sprint:
@@ -20,9 +19,8 @@ No primeiro <i>sprint</i> do <i>boocamp</i>, foram abordados os conceitos fundam
 <li> Conhecendo o jupyter notebook.
 </ul>
 <br/>
-<hr>
-<br/>
-<font size=+1>
+
+<font size=+2>
 <h2><b>Sobre o Projeto</b></h2></font>
 <p>
 Neste projeto, comparamos as preferências musicais dos habitantes de Springfild e Shelbyville. Examinamos os dados reais do Y.Music para análisar 3 hipóteses e comparar os comportamentos dos usuários dessas duas cidades.
@@ -53,8 +51,8 @@ Após analisar os dados chegamos as seguintes conclusões referentes às hipóte
 <li>As preferências musicais dos usuários de Springfield e Shelbyville são muito parecidas. A terceira hipótese foi rejeitada, pois parentemente as preferências  são iguais.
 </ol>
 <br>
-<hr>
-<br>
-<font size=+1>
+
+<font size=+2>
 <h3><b>🛠 Tecnologias</b></h3></font>
+<p>
 As análises foram realizadas na linguagem Python, utilizando o Jupyter Notebook e a biblioteca pandas.
