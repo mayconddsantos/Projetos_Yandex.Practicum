@@ -20,7 +20,7 @@ No primeiro <i>sprint</i> do <i>boocamp</i>, foram abordados os conceitos fundam
 </ul>
 <br/>
 
-<font size=+3>
+<font size=+3.5>
 <h2><b>Sobre o Projeto</b></h2></font>
 <p>
 Neste projeto, comparamos as preferências musicais dos habitantes de Springfild e Shelbyville. Examinamos os dados reais do Y.Music para análisar 3 hipóteses e comparar os comportamentos dos usuários dessas duas cidades.
@@ -52,7 +52,7 @@ Após analisar os dados chegamos as seguintes conclusões referentes às hipóte
 </ol>
 <br>
 
-<font size=+3>
-<h3><b>🛠 Tecnologias</b></h3></font>
+<font size=+3.5>
+<h2><b>🛠 Tecnologias</b></h2></font>
 <p>
 As análises foram realizadas na linguagem Python, utilizando o Jupyter Notebook e a biblioteca pandas.
